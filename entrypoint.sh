@@ -5,7 +5,7 @@ echo "# Open Policy Agent"
 /opa version
 printf "\n\n"
 echo "Dir:"
-pwd
+ls -l
 printf "\n\n"
 
 IFS=';'
