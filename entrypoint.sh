@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 printf "\n\n"
 echo "# Open Policy Agent"
