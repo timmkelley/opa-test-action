@@ -5,6 +5,10 @@ branding:
   icon: check-square
   color: green
 inputs:
+  cmd:
+    description: "OPA command"
+    required: true
+    default: test
   tests:
     description: "Rego file or directory path where to discover tests. Defaults to repository root."
     required: false
